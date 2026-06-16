@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.DS_Store
+
+# Local downloads and generated scratch files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+screenshots/
+
+# Logs and environment
+*.log
+.env
+.env.*
+
+# Editor metadata
+.idea/
+.vscode/
