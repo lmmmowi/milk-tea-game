@@ -218,6 +218,62 @@ const customers = [
     color: "#ffd38a",
     sprite: animalSprite("giraffe"),
   },
+  {
+    name: "斑马条条",
+    kind: "zebra",
+    mood: "排得直直的，身上的条纹像吸管一样。",
+    color: "#f3f5f6",
+    sprite: animalSprite("zebra"),
+  },
+  {
+    name: "小马哒哒",
+    kind: "horse",
+    mood: "轻轻跺脚，想快点拿到香香奶茶。",
+    color: "#d7a66f",
+    sprite: animalSprite("horse"),
+  },
+  {
+    name: "公鸡喔喔",
+    kind: "chicken",
+    mood: "抬头挺胸，已经准备好大声点单。",
+    color: "#fff4d6",
+    sprite: animalSprite("chicken"),
+  },
+  {
+    name: "青蛙跳跳",
+    kind: "frog",
+    mood: "蹦到队伍里，想喝一杯清爽的。",
+    color: "#a7efd5",
+    sprite: animalSprite("frog"),
+  },
+  {
+    name: "蓝鲸泡泡",
+    kind: "whale",
+    mood: "慢慢游到柜台边，想要好多小料。",
+    color: "#b9e4ff",
+    sprite: animalSprite("whale"),
+  },
+  {
+    name: "小鸡啾啾",
+    kind: "chick",
+    mood: "小翅膀拍拍，认真等自己的号码。",
+    color: "#ffe16a",
+    sprite: animalSprite("chick"),
+  },
+  {
+    name: "小蛇弯弯",
+    kind: "snake",
+    mood: "弯弯地排着队，悄悄看杯子贴纸。",
+    color: "#b8e986",
+    sprite: animalSprite("snake"),
+  },
+  {
+    name: "海象呼呼",
+    kind: "walrus",
+    mood: "扶着小胡子，想尝一杯暖暖的。",
+    color: "#d7b48a",
+    sprite: animalSprite("walrus"),
+  },
 ];
 
 function makeInitialCustomerQueue() {

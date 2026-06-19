@@ -8,6 +8,7 @@ dist/
 *.tar.gz
 *.rar
 screenshots/
+kenney_animal-pack-remastered/
 
 # Logs and environment
 *.log
